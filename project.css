@@ -1,0 +1,26 @@
+.project{
+  padding: 0;
+  margin: 0;
+  font-family: Tahoma;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Tahoma;
+}
+
+.project-a {
+  width: 60%;
+  height: auto;
+  border-radius: 20px;
+}
+
+.project p{
+  max-width: 1000px;
+  line-height: 22px;
+  text-align: left;
+}
+
+.artlink{
+  color: rgb(12, 88, 151);
+  text-decoration: none;
+}

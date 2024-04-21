@@ -1,0 +1,20 @@
+.intro{
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  margin-top: 100px;
+  font-family: Tahoma;
+  line-height: 30px;
+  margin-top:auto;
+  border-radius: 10px;
+}
+
+.right img{
+  width: 180px;
+}
+
+.left{
+  flex-direction: column;
+  min-width: 400px;
+  padding-right: 20px;
+}

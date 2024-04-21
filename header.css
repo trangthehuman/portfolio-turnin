@@ -1,0 +1,33 @@
+.header{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-content: center;
+flex-wrap: nowrap;
+background-color: rgb(237, 213, 243);
+color: rgb(50, 17, 68);
+border-radius: 20px;
+margin: 0;
+padding: 0;
+align-items: center;
+font-family: Tahoma;
+}
+
+.text {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap:wrap;
+  font-family: Tahoma;
+  line-height: 22px;
+  text-align: left;
+  max-width: 500px;
+  min-width: 200px;
+  
+}
+
+.text p {
+margin-top: -10px;
+text-align: left;
+}
